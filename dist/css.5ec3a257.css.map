@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/css/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css.5ec3a257.css","sourceRoot":"../src","sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n}\n\nbody {\n\tbackground-color: yellowgreen;\n}"]}
